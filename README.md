@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Alembic](https://alembic.darn.es/)
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
 
@@ -284,3 +285,9 @@ There are some more specific options you can apply when creating a page or a pos
 - Thanks to [Flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) by [Brian Franco](https://twitter.com/brianfranco)
 - Thanks to [Normalize](https://necolas.github.io/normalize.css/) by [Nicolas Gallagher](https://twitter.com/necolas) and [Jonathan Neal](https://twitter.com/jon_neal).
 - Thanks to [pygments-css](http://richleland.github.io/pygments-css/) for the autumn syntax highlighting, by [Rich Leland](https://twitter.com/richleland)
+=======
+# Hello everyone I am lizeyu
+
+lizeyujack
+theme:Dinky
+>>>>>>> 4556c3bd6f72ac21c61bbcf02bb71d34be652b2d
