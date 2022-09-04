@@ -95,11 +95,11 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Alembic" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
-baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+description: "This site was firstly built in Sep 3rd 2022 by Zeyu Li. Hopefully, Jack can post more and more academic result and reseach idea here. I am so grateful that github theme \"Alembic\" help me heaps with the front end building for this personal blog" # Site description and default description, also used in jekyll-seo-tag
+url: "https://lizeyujack.github.io" # Site url, also used in jekyll-seo-tag
+baseurl: "https://lize"
+repo: "https://github.com/lizeyujack/alembic"
+email: "lizeyujack@sjtu.edu.cn"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -129,20 +129,20 @@ navigation_header:
   url: /blog/
 - title: Categories
   url: /categories/
-- title: Search
-  url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+# - title: Search
+#   url: /search/
+# - title: Fork ME
+#   url: https://github.com/lizeyujack
 
 navigation_footer:
 - title: Created by David Darnes
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  Twitter: https://twitter.com/lizeyu39723430
+  LinkedIn: https://www.linkedin.com/in/%E6%B3%BD%E5%AE%87-%E6%9D%8E-a4322324b/
+  GitHub: https://github.com/lizeyujack
+  link: https://blog.csdn.net/qq_44881486?spm=1011.2415.3001.5343
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
