@@ -129,6 +129,8 @@ navigation_header:
   url: /blog/
 - title: Categories
   url: /categories/
+- title: Honey
+  url: /shushu/
 
 # - title: Search
 #   url: /search/
