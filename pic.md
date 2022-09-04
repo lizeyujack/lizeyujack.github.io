@@ -1,1 +1,1 @@
-{% include figure.html image="[https://picsum.photos/600/800?image=894](https://github.com/lizeyujack/lizeyujack.github.io/blob/main/wechat.jpg?raw=true)" caption="scan this qr code" width="300" height="800" %}
+{% include figure.html image="https://github.com/lizeyujack/lizeyujack.github.io/blob/main/wechat.jpg?raw=true" caption="scan this qr code" width="300" height="800" %}
