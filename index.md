@@ -7,8 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "This site was firstly built in Sep 3rd 2022 by Zeyu Li. Hopefully, Jack can post more and more academic result and reseach idea here. I am so grateful that github theme \"Alembic\" help me heaps with the front end building for this personal blog"
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
-
+This site was firstly built in Sep 3rd 2022 by Zeyu Li. Hopefully, Jack can post more and more academic result and reseach idea here. I am so grateful that github theme \"Alembic\" help me heaps with the front end building for this personal blog
 {% include button.html text="Fork it" icon="github" link="https://github.com/lizeyujack/" color="#0366d6" %}  {% include button.html text="Wechat me: lizeyu520squirrel" color="#0d94e7" %} {% include button.html text="Tracking me 💕" link="https://lizeyujack.github.io" %}
 
 ## Features
