@@ -3,7 +3,7 @@ title: About Zeyu
 feature_text: |
   ## A personal Blog
   The home page of jack Li. the fantastic star of CHINA.
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://github.com/lizeyujack/lizeyujack.github.io/blob/main/background.jpg?raw=true"
 excerpt: "This site was firstly built in Sep 3rd 2022 by Zeyu Li. Hopefully, Jack can post more and more academic result and reseach idea here. I am so grateful that github theme \"Alembic\" help me heaps with the front end building for this personal blog"
 ---
 
