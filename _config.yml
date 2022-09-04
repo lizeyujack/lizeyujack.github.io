@@ -4,7 +4,7 @@
 # 3. Gem settings
 # 4. Jekyll settings
 # 5. Collections
-# 6. Jekyll collections settings
+# 6. Jekyll collections settingsbaseurl
 # 7. Site settings
 # 8. Site favicons & manifest icons
 # 9. Site navigation
@@ -97,7 +97,7 @@ title: "Alembic" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "This site was firstly built in Sep 3rd 2022 by Zeyu Li. Hopefully, Jack can post more and more academic result and reseach idea here. I am so grateful that github theme \"Alembic\" help me heaps with the front end building for this personal blog" # Site description and default description, also used in jekyll-seo-tag
 url: "https://lizeyujack.github.io" # Site url, also used in jekyll-seo-tag
-baseurl: "https://lize"
+baseurl: ""
 repo: "https://github.com/lizeyujack/alembic"
 email: "lizeyujack@sjtu.edu.cn"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
