@@ -93,7 +93,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "李泽宇个人主页" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/me.svg" # Site logo, also used in jekyll-seo-tag
 description: "This site was firstly built in Sep 3rd 2022 by Zeyu Li. Hopefully, Jack can post more and more academic result and reseach idea here. I am so grateful that github theme \"Alembic\" help me heaps with the front end building for this personal blog" # Site description and default description, also used in jekyll-seo-tag
 url: "https://lizeyujack.github.io" # Site url, also used in jekyll-seo-tag
