@@ -1,18 +1,14 @@
 ---
-title: Description of a Pot Still
+title: 网站描述
 categories:
-- General
+- Description
 excerpt: |
-  A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).
+  This blog should contains most about stuy, live and "outside display"
 feature_text: |
-  ## The Pot Still
-  The modern pot still is a descendant of the alembic, an earlier distillation device
+  ## Will be a fantastic bolg 
+  Hope this one could push me to do a lot for changing the world in NLP/ML.
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
 
-A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy). This is called a batch distillation (as opposed to a continuous distillation).
-
-At standard atmospheric pressure, alcohol boils at 78 °C (172 °F), while water boils at 100 °C (212 °F). During distillation, the vapour contains more alcohol than the liquid. When the vapours are condensed, the resulting liquid contains a higher concentration of alcohol. In the pot still, the alcohol and water vapour combine with esters and flow from the still through the condensing coil. There they condense into the first distillation liquid, the so-called "low wines". The low wines have a strength of about 25–35% alcohol by volume, and flow into a second still. It is then distilled a second time to produce the colourless spirit, collected at about 70% alcohol by volume. Colour is added through maturation in an oak aging barrel, and develops over time.
-
-The modern pot still is a descendant of the alembic, an earlier distillation device.
+建立日期2022年9月4日。第一次发送博客记录。本博客主要包含三个展示内容。个人展示，博客部分，目录概要，与属鼠的分享。目前是这个结构，还在运维ing...🙌
