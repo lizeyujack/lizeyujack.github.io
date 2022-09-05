@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "李泽宇个人主页" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/me.svg" # Site logo, also used in jekyll-seo-tag
-description: "This site was firstly built in Sep 3rd 2022 by Zeyu Li. Hopefully, Jack can post more and more academic result and reseach idea here. I am so grateful that github theme \"Alembic\" help me heaps with the front end building for this personal blog" # Site description and default description, also used in jekyll-seo-tag
+description: "Here belones to YuYu and ShuShu. We've been togethoer since Mar 2nd 2018. At president, ShuShu is a young cadre of the Heilongjiang government. YuYu is a graduate student of SJTU majored on CS(NLP dialogue generation). Hopefully, we will go smoothly well and come over the problems. Come on YuYu & ShuShu.💕" # Site description and default description, also used in jekyll-seo-tag
 url: "https://lizeyujack.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/lizeyujack/lizeyujack.github.io"
@@ -123,10 +123,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
-- title: Blog
-  url: /blog/
+- title: Academic
+  url: /academic/
 - title: Categories
   url: /categories/
 - title: Honey
