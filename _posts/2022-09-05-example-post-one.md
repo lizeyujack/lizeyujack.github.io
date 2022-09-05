@@ -1,7 +1,6 @@
 ---
 title: Description of an Alembic
 categories:
-- Learnings
 - Feelings
 feature_image: "https://github.com/lizeyujack/lizeyujack.github.io/blob/main/shy_shushu.jpg?raw=true"
 ---
