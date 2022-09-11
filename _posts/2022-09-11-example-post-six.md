@@ -7,4 +7,4 @@ feature_image: "https://user-images.githubusercontent.com/53364734/189518825-a12
 
 处理完两版数据，先使用VAD技术，将静音的部分虑去。然后通过裁剪，将音频文件从数据规模上扩增。
 <!-- more -->
-- 找到了一个ccf ddl可视化网页。定期看看吧：[https://github.com/topics/ddl](https://github.com/topics/ddl)
+- 找到了一个ccf ddl可视化网页。定期看看吧：[click here]([https://github.com/topics/ddl](https://ccfddl.github.io/))
