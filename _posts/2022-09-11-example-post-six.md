@@ -1,7 +1,7 @@
 ---
 title: 读不懂代码de一天
 categories:
-- Feelings
+- Daily
 feature_image: "https://user-images.githubusercontent.com/53364734/189518825-a12d0125-8d2d-4657-8069-78c18512f85b.png"
 ---
 
