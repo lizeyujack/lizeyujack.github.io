@@ -10,4 +10,6 @@ feature_image: ""
 1. 本学期的TA： 微电子系统综合设计课程。(实验1/2)）
 2. 复现NeRF文章: CVPR oral present:[this one](https://bmild.github.io/rawnerf/)
 
+{% include site-form.html %}
+
 
