@@ -9,7 +9,7 @@ zhongchuan的效果显著。5分类准确率99/[validation cases](https://github
 <!-- more -->
 1. TA： 微电子系统综合设计课程。(实验1/2)|done
 2. 继续复现NeRF文章: CVPR oral present:[this one](https://bmild.github.io/rawnerf/)|done 1/2
-3. 
+
 
 The calculation resources are pretty tight for the whole members of ICAT. Further, we will have more and more cards there.
 ![image](https://user-images.githubusercontent.com/53364734/191153638-deba7363-b88e-4f62-a41c-f362638b8978.png)
@@ -17,7 +17,7 @@ Acc plot pic in here:
 
 ![2022-9-20-6-54_acc](https://user-images.githubusercontent.com/53364734/191191426-0c99ae51-3afd-48aa-aed6-91746bc507f5.jpg)
 
-{% include map.html id="https://www.google.com/maps/d/edit?mid=14BzLad2HHz_NlaAFaV7BeQ-ne" title="Coffee shop map" %}
+
 - Today's site:
 ```
 @article{Eric2019,
@@ -51,3 +51,5 @@ Acc plot pic in here:
    url = {https://github.com/LooperXX/DF-Net.},
 }
 ```
+
+{% include map.html id="https://www.google.com/maps/d/edit?mid=14BzLad2HHz_NlaAFaV7BeQ-ne" title="Coffee shop map" %}
