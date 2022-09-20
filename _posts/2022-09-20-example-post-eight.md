@@ -52,4 +52,4 @@ Acc plot pic in here:
 }
 ```
 
-{% include map.html id="https://www.google.com/maps/d/edit?mid=14BzLad2HHz_NlaAFaV7BeQ-ne" title="Coffee shop map" %}
+{% include map.html id="14BzLad2HHz_NlaAFaV7BeQ-neBpp-gs&ll=31.110131760085135%2C121.4370075&z=12" title="Coffee shop map" %}
