@@ -129,7 +129,7 @@ navigation_header:
   url: /categories/
 - title: Honey
   url: /shushu/
--title: Search
+- title: Search
   url: /search/
 # - title: Search
 #   url: /search/
