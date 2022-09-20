@@ -2,8 +2,7 @@
 title: 科研整理，预计明天解封
 categories:
 - Academic
-feature_image: "![2022-9-20-6-54_acc](https://user-images.githubusercontent.com/53364734/191151928-915b9d30-b0cf-46d5-aed9-f85d0f493bda.jpg)
-"
+feature_image: "https://user-images.githubusercontent.com/53364734/191195170-161013ae-9692-47ef-bec0-42a191e74345.png"
 ---
 zhongchuan的效果显著。5分类准确率99/[validation cases](https://github.com/lizeyujack/lizeyujack.github.io/files/9603466/2022-9-20-6-54_0.99_.csv)
 <!-- more -->
