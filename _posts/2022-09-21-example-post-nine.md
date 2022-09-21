@@ -2,7 +2,7 @@
 title: 如何使用服务器
 categories:
 - Academic
-feature_image: ""
+feature_image: "https://user-images.githubusercontent.com/53364734/191527335-84cb76dd-eb78-44a7-b143-94365c91d54d.jpg"
 ---
 😒come in to check it....
 <!-- more -->
