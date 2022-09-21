@@ -1,7 +1,7 @@
 ---
 title: 如何使用服务器
-categories:Academic
-- need to be added
+categories:
+- Academic
 feature_image: ""
 ---
 😒come in to check it....
