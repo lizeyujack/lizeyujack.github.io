@@ -10,11 +10,7 @@ feature_image: ""
 
 ```
 DATA_DIR=/cluster/home/lizeyu/multinerf/rawnerf/scenes/candlefiat
-python -m train \
-  --gin_configs=configs/360.gin \
-  --gin_bindings="Config.data_dir = '${DATA_DIR}'" \
-  --gin_bindings="Config.checkpoint_dir = '${DATA_DIR}/checkpoints'" \
-  --logtostderr
+CUDA_VISIBLE_DEVICES=0 python -m train   --gin_configs=configs/llff_raw.gin   --gin_bindings="Config.data_dir = '${DATA_DIR}'"   --gin_bindings="Config.checkpoint_dir = '${DATA_DIR}/checkpoints'"   --logtostderr
 ```
 
 服务器使用说明: [how to use server](https://sjtu-icat.github.io/post/21-01-01-server-usage/)
