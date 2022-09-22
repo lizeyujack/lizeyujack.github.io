@@ -65,10 +65,10 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "come on man, just do it!" # The post list page content
     feature_text: |
-      ## In case i don't see you,\n
-      good morning,good afternoon and good night
+      ## In case i don't see you,
+      ###good morning,good afternoon and good night
     feature_image: "https://user-images.githubusercontent.com/53364734/191680041-3352d56c-bf95-4fe7-b917-5a07bdb7621d.png"
 
 # 6. Jekyll collections settings
