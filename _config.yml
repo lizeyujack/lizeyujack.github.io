@@ -67,9 +67,9 @@ collections:
     output: true
     description: "My thoughts and ideas" # The post list page content
     feature_text: |
-      In case i don't see you,
+      ## In case i don't see you,\n
       good morning,good afternoon and good night
-    feature_image: "https://user-images.githubusercontent.com/53364734/191678359-b3645518-d028-432a-9fdc-a548a7937cd1.jpeg"
+    feature_image: "https://user-images.githubusercontent.com/53364734/191680041-3352d56c-bf95-4fe7-b917-5a07bdb7621d.png"
 
 # 6. Jekyll collections settings
 defaults:
