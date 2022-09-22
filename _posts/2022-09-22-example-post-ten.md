@@ -1,5 +1,5 @@
 ---
-title: small talks
+title: 回实验室的第一天
 categories:
 - Academic
 feature_image: "https://user-images.githubusercontent.com/53364734/191676142-70b74898-488a-41e4-8b19-285a43d020ee.png"
