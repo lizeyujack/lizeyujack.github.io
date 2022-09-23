@@ -7,5 +7,8 @@ feature_image: "https://user-images.githubusercontent.com/53364734/191676142-70b
 ^_^ come in and download vivado to do sth. Let's designing unbeatable chips for  P.R.C !
 <!-- more -->
 
-click [安装Vivado](https://lizeyujack.github.io/files/安装vivado.pdf) for details:
+click [安装Vivado](https://lizeyujack.github.io/files/安装vivado.pdf) for details;
+- being a TA now:
+![image](https://user-images.githubusercontent.com/53364734/191886262-c81e86b9-65b5-4fa5-b900-56a958cfadf2.png)
+
 
