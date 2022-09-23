@@ -20,4 +20,4 @@ python3 -m example.main --gin_config=example/configs/leaf.gin
 ```
 - 。。。need to edited ~_~
 
-服务器使用说明: [how to use server](https://sjtu-icat.github.io/post/21-01-01-server-usage/)
+> 服务器使用说明: [how to use server](https://sjtu-icat.github.io/post/21-01-01-server-usage/)
