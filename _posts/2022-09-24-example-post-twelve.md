@@ -16,5 +16,3 @@ print('An Interpretable Neuro-Symbolic Reasoning Framework for Task-Oriented Dia
 ## BART论文解读：
 {% include video.html id="14a4y1s77y" t="0" title="Siteleaf tutorial video" %}
 
-
-{% include map.html title="上海交通大学 微电子大楼205" %}
