@@ -2,7 +2,7 @@
 title: 周末加班
 categories:
 - Academic
-feature_image: "https://oss.gramaker.com/developer/homepage/image/image-1579053734709.png"
+feature_image: "https://user-images.githubusercontent.com/53364734/192078813-b6f2a995-c8c3-401b-aae6-826745ca8d52.png"
 ---
 来看看**小目标**吗？看视频读文章：
 <!-- more -->
