@@ -8,10 +8,12 @@ feature_image: "https://user-images.githubusercontent.com/53364734/191680041-335
 
 ```
 ---
+{% raw %}
 title: small talks
 categories:
 - need to be added
 feature_image: ""
+{% endraw %}
 ---
 
 <!-- more -->
@@ -20,9 +22,6 @@ feature_image: ""
 # video scripts:
 
 ```
-{% include video.html id="1Jr4y1G7oG" t="0" title="Siteleaf tutorial video" %}
+{% raw %}{% include video.html id="1Jr4y1G7oG" t="0" title="Siteleaf tutorial video" %}{% endraw %}
 ```
-???
-```
-{% include video.html id="1Jr4y1G7oG" t="0" title="Siteleaf tutorial video" %}
-```
+
