@@ -17,6 +17,9 @@ feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190
 ---
 
 <!-- more -->
+
+
+[![更改博客链接](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://github.com/lizeyujack/lizeyujack.github.io/edit/main/_posts/2022-09-26-example-post-thriteen.md)
 {% endraw %}
 ```
 ## 楚门主题
@@ -31,4 +34,6 @@ feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190
 ```
 {% raw %}{% include video.html id="1Jr4y1G7oG" t="0" title="Siteleaf tutorial video" %}{% endraw %}
 ```
+
+
 
