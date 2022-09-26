@@ -4,9 +4,12 @@ categories:
 - Feelings
 feature_image: "https://user-images.githubusercontent.com/53364734/191680041-3352d56c-bf95-4fe7-b917-5a07bdb7621d.png"
 ---
-# posts mode(Hello world theme)：
+
 
 更改链接：[![更改博客链接](https://user-images.githubusercontent.com/53364734/192180297-c1654533-eb5f-4bf9-aa9f-ab830208a5e3.png)](https://github.com/lizeyujack/lizeyujack.github.io/edit/main/mode.md)
+
+# posts mode(Hello world theme)：
+
 ```
 ---
 {% raw %}
