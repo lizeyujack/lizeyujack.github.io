@@ -6,6 +6,7 @@ feature_image: "https://user-images.githubusercontent.com/53364734/191680041-335
 ---
 # posts mode(Hello world theme)：
 
+更改链接：[![更改博客链接](https://user-images.githubusercontent.com/53364734/192180297-c1654533-eb5f-4bf9-aa9f-ab830208a5e3.png)](https://github.com/lizeyujack/lizeyujack.github.io/edit/main/mode.md)
 ```
 ---
 {% raw %}
@@ -19,7 +20,7 @@ feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190
 <!-- more -->
 
 
-[![更改博客链接](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://github.com/lizeyujack/lizeyujack.github.io/edit/main/_posts/2022-09-26-example-post-thriteen.md)
+更改链接：[![更改博客链接](https://user-images.githubusercontent.com/53364734/192180297-c1654533-eb5f-4bf9-aa9f-ab830208a5e3.png)](https://github.com/lizeyujack/lizeyujack.github.io/edit/main/_posts/2022-09-26-example-post-thriteen.md)
 {% endraw %}
 ```
 ## 楚门主题
@@ -34,6 +35,4 @@ feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190
 ```
 {% raw %}{% include video.html id="1Jr4y1G7oG" t="0" title="Siteleaf tutorial video" %}{% endraw %}
 ```
-
-
 
