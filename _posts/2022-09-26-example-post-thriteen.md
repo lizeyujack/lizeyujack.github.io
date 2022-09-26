@@ -34,3 +34,6 @@ _在输入bert之前，author将word转换为index的形式。难道不应该直
 
 - things happen from here
 ![image](https://user-images.githubusercontent.com/53364734/192291379-b7d7edbc-c740-46d4-bb11-b096a9bd2d78.png)
+
+- embeded有所进展（bushi）
+![image](https://user-images.githubusercontent.com/53364734/192293676-f52d8f91-2262-479f-9dba-75fcc74c280b.png)
