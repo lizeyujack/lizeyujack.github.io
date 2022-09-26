@@ -29,3 +29,5 @@ _在输入bert之前，author将word转换为index的形式。难道不应该直
 我可能有多动证诶：
 ![image](https://user-images.githubusercontent.com/53364734/192216644-a22278e1-fc24-4b1c-b583-f7331a5dac99.png)
 
+- 可能疯了。哈哈
+![image](https://user-images.githubusercontent.com/53364734/192281229-f1595320-78fe-4eb6-a8e5-7ea94116ea1e.png)
