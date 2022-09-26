@@ -31,3 +31,6 @@ _在输入bert之前，author将word转换为index的形式。难道不应该直
 
 - 可能疯了。哈哈
 ![image](https://user-images.githubusercontent.com/53364734/192281229-f1595320-78fe-4eb6-a8e5-7ea94116ea1e.png)
+
+- things happen from here
+![image](https://user-images.githubusercontent.com/53364734/192291379-b7d7edbc-c740-46d4-bb11-b096a9bd2d78.png)
