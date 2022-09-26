@@ -25,3 +25,7 @@ Don't worry about me. I am worry about you.
 Let's see encoder part, check if it is bert?
 _在输入bert之前，author将word转换为index的形式。难道不应该直接用bert解析吗？_
 ![image](https://user-images.githubusercontent.com/53364734/192185922-de846548-5fe8-432b-abe6-2acd2fac6e47.png)
+
+我可能有多动证诶：
+![image](https://user-images.githubusercontent.com/53364734/192216644-a22278e1-fc24-4b1c-b583-f7331a5dac99.png)
+
