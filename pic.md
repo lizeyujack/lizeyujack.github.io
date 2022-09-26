@@ -2,4 +2,4 @@
 title: lizeyu520squirrel
 ---
 
-{% include figure.html image="https://github.com/lizeyujack/lizeyujack.github.io/blob/main/wechat.jpg?raw=true" caption="scan this qr code" width="300" height="800" %}
+{% include figure.html image="https://raw.githubusercontent.com/lizeyujack/lizeyujack.github.io/main/wechat.jpg" caption="scan this qr code" width="300" height="800" %}
