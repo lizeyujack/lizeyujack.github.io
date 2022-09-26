@@ -9,7 +9,7 @@ feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190
 TA training video~
 <!-- more -->
 
-[![更改博客链接]([https://assets.stackbit.com/badge/create-with-stackbit.svg](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlekeep.svg))](https://github.com/lizeyujack/lizeyujack.github.io/edit/main/_posts/2022-09-26-example-post-thriteen.md)
+[![更改博客链接](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechat.svg)](https://github.com/lizeyujack/lizeyujack.github.io/edit/main/_posts/2022-09-26-example-post-thriteen.md)
 
 
 - TA info
