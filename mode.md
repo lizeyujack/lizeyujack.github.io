@@ -19,11 +19,11 @@ feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190
 <!-- more -->
 {% endraw %}
 ```
-- 楚门主题
+## 楚门主题
+
+
 ```
-{% raw %}
-https://user-images.githubusercontent.com/53364734/191680041-3352d56c-bf95-4fe7-b917-5a07bdb7621d.png
-{% endraw %}
+{% raw %}https://user-images.githubusercontent.com/53364734/191680041-3352d56c-bf95-4fe7-b917-5a07bdb7621d.png{% endraw %}
 ```
 
 # video scripts:
