@@ -4,7 +4,7 @@ categories:
 - Feelings
 feature_image: "https://user-images.githubusercontent.com/53364734/191680041-3352d56c-bf95-4fe7-b917-5a07bdb7621d.png"
 ---
-# posts mode：
+# posts mode(Hello world theme)：
 
 ```
 ---
@@ -12,11 +12,17 @@ feature_image: "https://user-images.githubusercontent.com/53364734/191680041-335
 title: small talks
 categories:
 - need to be added
-feature_image: ""
+feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190b1b14-a1ee-4590-ac1f-56ac81ffeb56.png"
 
 ---
 
 <!-- more -->
+{% endraw %}
+```
+- 楚门主题
+```
+{% raw %}
+https://user-images.githubusercontent.com/53364734/191680041-3352d56c-bf95-4fe7-b917-5a07bdb7621d.png
 {% endraw %}
 ```
 
