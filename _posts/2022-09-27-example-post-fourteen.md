@@ -11,7 +11,18 @@ feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190
 
 更改链接：[![更改博客链接](https://user-images.githubusercontent.com/53364734/192180297-c1654533-eb5f-4bf9-aa9f-ab830208a5e3.png)](https://github.com/lizeyujack/lizeyujack.github.io/edit/main/_posts/2022-09-27-example-post-fourteen.md)
 
+-  result first:
+
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 202/202 [00:33<00:00,  5.98it/s]
+F1 SCORE:       0.0006
+CAL F1: 0.0000
+WET F1: 0.0024
+NAV F1: 0.0000
+BLEU SCORE:     0.56
+
+
 ## 编码之后的输出。对于multiwoz数据集是这样的。
+
 ```
 {%raw%}(torch) [lizeyu@head2 NS-Dial]$ CUDA_VISIBLE_DEVICES=3 python train.py -ds=multiwoz -bsz=1 -hdd=128 -lr=0.001 -dr=0.2 -evalp=10 -max_neg_cnt=5 -max_depth=3
 {'dataset': 'multiwoz', 'task': '', 'decoder': None, 'hidden': '128', 'batch': '1', 'learn': '0.001', 'drop': '0.2', 'unk_mask': 1, 'layer': None, 'limit': -10000, 'path': None, 'clip': 10, 'teacher_forcing_ratio': 0.5, 'sample': None, 'evalp': '10', 'addName': '', 'genSample': 0, 'earlyStop': 'BLEU', 'ablationG': 0, 'ablationH': 0, 'record': 0, 'reverse_graph': 0, 'max_deps': 3, 'ablationD': 0, 'maxhops': 3, 'graphhdd': 8, 'nheads': 8, 'alpha': 0.2, 'graph_dr': 0.6, 'graph_layer': 1, 'max_depth': 3, 'max_neg_cnt': 5, 'show_trees': 0}
@@ -85,7 +96,8 @@ embedded 2       torch.Size([79, 1, 4, 128])
 embedded 3       torch.Size([79, 1, 128])
 hidden out size: 4       torch.Size([2, 1, 128])
 hid      5 torch.Size([1, 1, 128])
-encode   torch.Size([1, 128]){%endraw%}```
+encode   torch.Size([1, 128]){%endraw%}
+```
 - 彩蛋：
 
 {% include video.html id="19N4119729" t="0" title="Siteleaf tutorial video" %}
