@@ -1,12 +1,12 @@
 ---
 
-title: small talks
+title: 跑通[NS_dial](https://github.com/shiquanyang/NS-Dial)的一天。
 categories:
-- need to be added
+- Academic
 feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190b1b14-a1ee-4590-ac1f-56ac81ffeb56.png"
 
 ---
-把embeded的东西搞出来了。
+把embeded的东西搞出来了。可是遇到了OOM。
 <!-- more -->
 
 更改链接：[![更改博客链接](https://user-images.githubusercontent.com/53364734/192180297-c1654533-eb5f-4bf9-aa9f-ab830208a5e3.png)](https://github.com/lizeyujack/lizeyujack.github.io/edit/main/_posts/2022-09-27-example-post-fourteen.md)
