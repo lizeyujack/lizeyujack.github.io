@@ -9,7 +9,7 @@ feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190
 把embeded的东西搞出来了。
 <!-- more -->
 
-更改链接：[![更改博客链接](https://github.com/lizeyujack/lizeyujack.github.io/edit/main/_posts/2022-09-27-example-post-fourteen.md)
+更改链接：[![更改博客链接](https://user-images.githubusercontent.com/53364734/192180297-c1654533-eb5f-4bf9-aa9f-ab830208a5e3.png)](https://github.com/lizeyujack/lizeyujack.github.io/edit/main/_posts/2022-09-27-example-post-fourteen.md)
 
 ## 编码之后的输出。对于multiwoz数据集是这样的。
 ```
