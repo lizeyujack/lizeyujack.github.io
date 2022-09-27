@@ -9,6 +9,8 @@ feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190
 把embeded的东西搞出来了。
 <!-- more -->
 
+更改链接：[![更改博客链接](https://github.com/lizeyujack/lizeyujack.github.io/edit/main/_posts/2022-09-27-example-post-fourteen.md)
+
 ## 编码之后的输出。对于multiwoz数据集是这样的。
 ```
 {%raw%}(torch) [lizeyu@head2 NS-Dial]$ CUDA_VISIBLE_DEVICES=3 python train.py -ds=multiwoz -bsz=1 -hdd=128 -lr=0.001 -dr=0.2 -evalp=10 -max_neg_cnt=5 -max_depth=3
