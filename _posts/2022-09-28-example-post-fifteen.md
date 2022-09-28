@@ -1,8 +1,8 @@
 ---
 
-title: small talks
+title: 摸鱼到2点才来的一天
 categories:
-- need to be added
+- Entertainment
 feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190b1b14-a1ee-4590-ac1f-56ac81ffeb56.png"
 
 ---
