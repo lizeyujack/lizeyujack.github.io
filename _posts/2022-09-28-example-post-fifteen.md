@@ -10,7 +10,7 @@ feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190
 <!-- more -->
 
 
-更改链接：[![更改博客链接](https://user-images.githubusercontent.com/53364734/192180297-c1654533-eb5f-4bf9-aa9f-ab830208a5e3.png)](https://github.com/lizeyujack/lizeyujack.github.io/edit/main/_posts/2022-09-26-example-post-thriteen.md)
+更改链接：[![更改博客链接](https://user-images.githubusercontent.com/53364734/192180297-c1654533-eb5f-4bf9-aa9f-ab830208a5e3.png)](https://github.com/lizeyujack/lizeyujack.github.io/blob/main/_posts/2022-09-28-example-post-fifteen.md)
 
 
-https://www.zhihu.com/people/lu-ce-wu/answers
+去年看到就大受震撼，要与cewu老弟共勉，[link zhihu](https://www.zhihu.com/people/lu-ce-wu/answers)
