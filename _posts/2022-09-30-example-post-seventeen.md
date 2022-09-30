@@ -1,12 +1,12 @@
-
 ---
 
-title: 人生第一次做助教！
+title: 人生第一次做助教√
 categories:
 - Daily
 feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190b1b14-a1ee-4590-ac1f-56ac81ffeb56.png"
 
 ---
+
 解决一个心头大患。助教过程还好没掉链子。
 <!-- more -->
 
