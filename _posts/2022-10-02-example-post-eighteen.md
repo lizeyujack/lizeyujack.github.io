@@ -11,7 +11,9 @@ feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190
 <!-- more -->
 
 
-更改链接：[![更改博客链接](https://user-images.githubusercontent.com/53364734/192180297-c1654533-eb5f-4bf9-aa9f-ab830208a5e3.png)](https://github.com/lizeyujack/lizeyujack.github.io/edit/main/_posts/2022-09-26-example-post-thriteen.md)
+更改链接：[![更改博客链接](https://user-images.githubusercontent.com/53364734/192180297-c1654533-eb5f-4bf9-aa9f-ab830208a5e3.png)](https://github.com/lizeyujack/lizeyujack.github.io/edit/main/_posts/2022-10-02-example-post-eighteen.md)
+
+
 端到端指的是输入是原始数据，输出是最后的结果，原来输入端不是直接的原始数据，而是在原始数据中提取的特征
 
 经典机器学习方式是以人类的先验知识将raw数据预处理成feature，然后对feature进行分类。分类结果十分取决于feature的好坏。所以过去的机器学习专家将大部分时间花费在设计feature上。那时的机器学习有个更合适的名字叫feature engineering 。
