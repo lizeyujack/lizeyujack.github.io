@@ -13,6 +13,17 @@ An Interpretable Neuro-Symbolic Reasoning Framework forTask-Oriented Dialogue Ge
 
 更改链接：[![更改博客链接](https://user-images.githubusercontent.com/53364734/192180297-c1654533-eb5f-4bf9-aa9f-ab830208a5e3.png)](https://github.com/lizeyujack/lizeyujack.github.io/edit/main/_posts/2022-10-05-example-post-twentity.md)
 
+- 交大硕士国奖得住：
+战略上的懒惰，很难用战术上的努力去弥补。路线不对，知识越多越繁重。
+相信自己可以取得好的结果。战略上藐视敌人，战术上重视敌人。
+1. 保持自信
+2. 一定要稳，稳中求进
+3. 避免内耗
+4. 精神上有自己的想法，不轻易的被他人的评价所影响。（重点号）
+5. 有一项爱好（值得坚持的：健身、游戏【原神？】）派遣消极情绪。
+6. 珍惜时间
+7. 精益求精，有毅力，永不放弃
+
 ```python
 {%raw%} 
 import torch
