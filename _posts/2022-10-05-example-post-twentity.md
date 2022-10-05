@@ -72,8 +72,6 @@ class Encoder(nn.Module):
         r = len(tokens)
         trunc_tokens = list(tokens)
         while r - l > max_num_tokens:
-            # We want to sometimes truncate from the front and sometimes from the
-            # back to add more randomness and avoid biases.
             if random.random() < 0.5:
                 l += 1
             else:
@@ -81,25 +79,16 @@ class Encoder(nn.Module):
         return trunc_tokens[l:r]
 
     def compute_bert_input(self, conv_arr_plain, batch_size,MAX_INPUT_LEN):
-        # convert to id and padding
-        # print("max\t",MAX_INPUT_LEN)
         bert_input = ["".join(elm) for elm in conv_arr_plain]
-        # print('bert_input\t',bert_input)
         lens = [len(ele.split(" ")) for ele in bert_input]
-        # print('lens\t',lens)
         max_len = max(lens)
         padded_seqs = torch.zeros(batch_size, min(max_len, MAX_INPUT_LEN)).long()
         input_mask = torch.zeros(batch_size, min(max_len, MAX_INPUT_LEN))
-        # print('padded_seqs\t',padded_seqs.shape)
         for i, seq in enumerate(bert_input):
-            end = min(lens[i], MAX_INPUT_LEN)
-            # print(seq)
-            # print('end\t',end)
+            end = min(lens[i], MAX_INPUT_LEN
             tokens = self.tokenizer.tokenize(seq)
             tokens = self.trunc_seq(tokens, 512)
-            # print(tokens)
             seq_id = self.tokenizer.convert_tokens_to_ids(tokens)
-            # print('seq_id\t',len(seq_id))
             padded_seqs[i, :end] = torch.Tensor(seq_id[:end])
             input_mask[i, :end] = 1
         return _cuda(padded_seqs), _cuda(input_mask)
@@ -107,46 +96,12 @@ class Encoder(nn.Module):
     def forward(self, conv_arr_plain,input_seqs, input_lengths):
         # - Encode Dialogue History
         # BERT Encoder
-        # print('input_seqs',input_seqs)
-        # sys.exit()
-        # batch_size = input_seqs.size(0)
         batch_size = int(args['batch'])
-        # print('seq\t',conv_arr_plain)
         input_ids, input_mask = self.compute_bert_input(conv_arr_plain, batch_size,input_lengths[0])
-        # print('input_ids',input_ids.shape)
-        # print(input_ids.shape,input_mask.shape)
-        # sys.exit()
         _, pooled_output = self.bert(input_ids, attention_mask=input_mask)
-        # print(pooled_output.shape)
         encoded_hidden = self.W(pooled_output)
-        # print('ot\t',encoded_hidden.shape)
-        # encoded_hidden = torch.sum(encoded_hidden,0)
-        # print(encoded_hidden.shape)
-        # sys.exit()
-        # embedded = self.embedding(input_seqs.contiguous().view(input_seqs.size(0), -1).long())
-        # print(embedded.shape)
-        # embedded = embedded.view(input_seqs.size()+(embedded.size(-1),))
-        # embedded = torch.sum(embedded, 2).squeeze(2)
-        # embedded = self.dropout_layer(embedded)
-        # hidden = self.get_state(input_seqs.size(1))
-        # print("input_seqs out size: ", input_seqs.size())
-        # print("embedded size: ", embedded.size())
-        # if input_lengths:
-        #     embedded = nn.utils.rnn.pack_padded_sequence(embedded, input_lengths, batch_first=False)
-        # outputs, hidden = self.gru(embedded, hidden)
-        # if input_lengths:
-        #    outputs, _ = nn.utils.rnn.pad_packed_sequence(outputs, batch_first=False)
-        # hidden = self.W(torch.cat((hidden[0], hidden[1]), dim=1)).unsqueeze(0)
-        # outputs = self.W(outputs)
-        # print(hidden.shape)
-        # print("shape is \t",encoded_hidden.shape)
         encoded_hidden = encoded_hidden.unsqueeze(0)
-        # print(encoded_hidden.shape)
-        # print(encoded_hidden.shape)
-        # sys.exit()
         return encoded_hidden
-        
-
 {%endraw%}
 ```
 - eight minutes to go:
