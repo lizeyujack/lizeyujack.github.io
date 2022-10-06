@@ -122,5 +122,5 @@ class Encoder(nn.Module):
 ![image](https://user-images.githubusercontent.com/53364734/194055373-4a6a6025-e987-4274-b226-cfdc4e267b65.png)
 
 ## 帕累托原则：
-  <video src="https://560-cn-east-2.cdn-vod.huaweicloud.com/asset/a7dcecdf8f9c4cb6c99187156cd2bd46/ff727aaee49ad19ae4d4214d699d1801.mp4?auth_info=5107VBmxIlDJ%2BbuFFYO2l2mZVpqYuIxgCfgDSG2YpDB23xtBBxp7sSwZ8I2EkbA%2F1rvoXWUhhuXAjVV2nDqrGg%3D%3D.fd6afd487754ba1389f0c188e3e55add"></video>
+<video id="video-share_html5_api" class="vjs-tech" tabindex="-1" preload="auto" src="https://560-cn-east-2.cdn-vod.huaweicloud.com/asset/a7dcecdf8f9c4cb6c99187156cd2bd46/ff727aaee49ad19ae4d4214d699d1801.mp4?auth_info=m0Np1R8LtIfXrX3afUh%2FRDBIctx%2FrxhBjA%2F3C4eDM4ZlK3d3tsYuSFiCAnm05WOCIsWTbEXvxDVDhslRgngW2Q%3D%3D.95735b1617edcb585f43536218da6d05"></video>
 
