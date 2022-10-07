@@ -14,10 +14,4 @@ ICME 尝试发文，搞一个多模态的方向论文。
 
 - dataset
 
-|      | photo chat                        | Flickr30k                    | MSCOCO                       | Conceptual Caption | Image-Chat          |
-| ---- | --------------------------------- | ---------------------------- | ---------------------------- | ------------------ | ------------------- |
-|      |                                   |                              |                              |                    |                     |
-|      | Google Research                   |                              |                              |                    |                     |
-|      | 2021                              | 2014                         | 2014                         | 2018               | 2020                |
-|      | dialogue generation + multi-model | cross-modal retrieval tasks. | cross-modal retrieval tasks. | caption            | dialogue generation |
 
