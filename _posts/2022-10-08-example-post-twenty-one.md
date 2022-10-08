@@ -15,7 +15,8 @@ multi-model vision-language数据集：COCO  [128],  VQA  [129],  Visual  Genome
 
 ```bash
 {%raw%}
-git clone https://github.com/google-research/google-research.git "multimodalchat"
+sudo apt-get install subvision
+svn checkout https://github.com/google-research/google-research/trunck/master/multimodalchat
 {%endraw%}
 ```
 
