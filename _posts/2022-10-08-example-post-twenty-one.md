@@ -13,6 +13,11 @@ feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190
 
 multi-model vision-language数据集：COCO  [128],  VQA  [129],  Visual  Genome[130], SBU Captions [131], Cooking312K [7], LAIT [120], e-SNLI-VE [132], ARCH [133], Adversarial VQA [134], OTT-QA [16], MULTIMODALQA (MMQA) [135], VALUE [136],Fashion  IQ  [137],  LRS2-BBC  [138],  ActivityNet  [139],  CN-ERTA [140], DVD [141], VisDial [142], PhotoChat [[143](https://arxiv.org/pdf/2108.01453.pdf)] Image-Chat[https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Image+Chat%3A+Engaging+Grounded+Conversations&btnG=].
 
+```bash
+{%raw%}
+git clone https://github.com/google-research/google-research.git "multimodalchat"
+{%endraw%}
+```
 
 ```bash
 {%raw%}
