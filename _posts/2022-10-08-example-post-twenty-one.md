@@ -9,8 +9,9 @@ feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190
 开设一个新的专题，论文精读。然后总结多模态对话系统中的技术，发展现状，以及科研究的点。
 <!-- more -->
 
-
 更改链接：[![更改博客链接](https://user-images.githubusercontent.com/53364734/192180297-c1654533-eb5f-4bf9-aa9f-ab830208a5e3.png)](https://github.com/lizeyujack/lizeyujack.github.io/blob/main/_posts/2022-10-08-example-post-twenty-one.md)
+
+multi-model vision-language数据集：COCO  [128],  VQA  [129],  Visual  Genome[130], SBU Captions [131], Cooking312K [7], LAIT [120], e-SNLI-VE [132], ARCH [133], Adversarial VQA [134], OTT-QA [16], MULTIMODALQA (MMQA) [135], VALUE [136],Fashion  IQ  [137],  LRS2-BBC  [138],  ActivityNet  [139],  CN-ERTA [140], DVD [141], VisDial [142], PhotoChat [143].
 
 ```bash
 {%raw%}
