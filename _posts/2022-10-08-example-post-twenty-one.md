@@ -12,8 +12,9 @@ feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190
 
 更改链接：[![更改博客链接](https://user-images.githubusercontent.com/53364734/192180297-c1654533-eb5f-4bf9-aa9f-ab830208a5e3.png)](https://github.com/lizeyujack/lizeyujack.github.io/blob/main/_posts/2022-10-08-example-post-twenty-one.md)
 
-
-> @report{,
+```bash
+{%raw%}
+@report{,
    abstract = {Natural language explanation (NLE) models aim at explaining the decision-making process of a black box system via generating natural language sentences which are human-friendly, high-level and fine-grained. Current NLE models 1 explain the decision-making process of a vision or vision-language model (a.k.a., task model), e.g., a VQA model, via a language model (a.k.a., explanation model), e.g., GPT. Other than the additional memory resources and inference time required by the task model, the task and explanation models are completely independent, which disas-sociates the explanation from the reasoning process made to predict the answer. We introduce NLX-GPT, a general , compact and faithful language model that can simultaneously predict an answer and explain it. We first conduct pre-training on large scale data of image-caption pairs for general understanding of images, and then formulate the answer as a text prediction task along with the explanation. Without region proposals nor a task model, our resulting overall framework attains better evaluation scores, contains much less parameters and is 15× faster than the current SoA model. We then address the problem of evaluating the explanations which can be in many times generic, data-biased and can come in several forms. We therefore design 2 new evaluation measures: (1) explain-predict and (2) retrieval-based attack, a self-evaluation framework that requires no labels. Code is at: https://github.com/fawazsammani/nlxgpt.},
    author = {Fawaz Sammani and Tanmoy Mukherjee and Nikos Deligiannis},
    title = {NLX-GPT: A Model for Natural Language Explanations in Vision and Vision-Language Tasks},
@@ -101,3 +102,5 @@ feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190
    url = {http://arxiv.org/abs/2110.08515},
    year = {2021},
 }
+{%endraw%}
+```
