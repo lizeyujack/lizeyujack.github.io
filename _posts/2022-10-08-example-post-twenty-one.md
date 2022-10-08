@@ -10,7 +10,23 @@ feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190
 <!-- more -->
 
 更改链接：[![更改博客链接](https://user-images.githubusercontent.com/53364734/192180297-c1654533-eb5f-4bf9-aa9f-ab830208a5e3.png)](https://github.com/lizeyujack/lizeyujack.github.io/blob/main/_posts/2022-10-08-example-post-twenty-one.md)
+多模态对话（Multimodal Dialog）关注更接近人类自然对话的多模态人机对话技术的研究。它与上一节介绍的视觉对话的主要差异有：
 
+①多模态对话给定的输入图像可能是多幅的;
+
+②随着对话的推进，图像是不断更新的;
+
+③用户问题和模型的回答可以是文本的、图像的或者图文结合的;
+
+④模型可能需要查询外部领域知识库才能回答用户的问题（如购物者希望看到更多与特定商品相似的商品，或者要求提供满足某些特征的商品，或者查询特定商品的属性等）;
+
+⑤模型可能需要通过反问等对话策略澄清用户需求。
+
+零售和旅游等限定领域的多模态对话最近受到了越来越多的关注。
+
+常用的面向购物场景的多模态对话数据集有MMD、SIMMC和JDDC。MMD是在服饰专家的指导下通过模拟扮演（Wizard-of-Oz，WoZ）的方式收集的时尚购物场景的数据集。SIMMC2.0是时尚和家具购物场景的数据集。其中，时尚和家具杂乱的购物场景是通过逼真的VR场景生成器（VR Scene Generator）生成的。与MMD和SIMMC不同，JDDC2.0是从电商平台客服和消费者之间的真实对话数据中采样的（图2）。JDDC2.0包括多模态对话24.6万，其中，图片50.7万张，平均对话轮数14轮。此外，JDDC2.0还提供了30205个商品的759种商品属性关系，共计21.9万的<商品ID、属性、属性值>三元组。
+
+视觉对话和多模态对话常用数据集的详细对比如表3所示。
 multi-model vision-language数据集：COCO  [128],  VQA  [129],  Visual  Genome[130], SBU Captions [131], Cooking312K [7], LAIT [120], e-SNLI-VE [132], ARCH [133], Adversarial VQA [134], OTT-QA [16], MULTIMODALQA (MMQA) [135], VALUE [136],Fashion  IQ  [137],  LRS2-BBC  [138],  ActivityNet  [139],  CN-ERTA [140], DVD [141], VisDial [142], PhotoChat [[143](https://arxiv.org/pdf/2108.01453.pdf)] Image-Chat[https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Image+Chat%3A+Engaging+Grounded+Conversations&btnG=].
 
 - 下载github仓库文件的转换代码：
