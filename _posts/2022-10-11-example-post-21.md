@@ -24,3 +24,7 @@ PhotoChat 论文精读:
 
 $\sigma$
 <img src="http://www.forkosh.com/mathtex.cgi?c=\sqrt{a^2+b^2}\sigma" alt="" border="0" align="middle" />
+
+
+对于意图识别：本文为了建立基线，我们微调了三个SOTA预先训练的模型——BERT、ALBERT  and T5.
+
