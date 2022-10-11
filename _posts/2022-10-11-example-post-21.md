@@ -28,7 +28,9 @@ PhotoChat 论文精读:
 
 - 对于图像检索：Dual encoder（double-stream network with bert as textual encoder and Resnet as visual encoder）、VSE++(强调了最难的底片使用最大的铰链损失为目标，并产生了显著的性能改进,2018)、SCAN(是一个完整的交叉注意模型，它捕获图像区域和文本标记之间的细粒度相互作用，从而推断图像-文本相似性。)、BM25(是一种广泛用于文档检索的概率检索函数。为了使其适应我们的设置，我们直接利用每个图像{% include latex.html latex="l_j, j \in \[1,m\]" %}的对象标签作为文档项)
 
+自我总结:对于作者给出的两个任务，对于数据集完全有gold entity进行支撑。比如，intent prediction的label在数据集中是存在的。对于image retrieval也是存在对数据的描述的。这里需要对比一下另一个工作[OpenViDial](https://github.com/ShannonAI/OpenViDial)。思考一下为什么PhotoChat不可以用作对话生成。
 
+## citation
 >> @article{,
    abstract = {We present a new human-human dialogue dataset-PhotoChat, the first dataset that casts light on the photo sharing behavior in online messaging. PhotoChat contains 12k dialogues, each of which is paired with a user photo that is shared during the conversation. Based on this dataset, we propose two tasks to facilitate research on image-text modeling: a photo-sharing intent prediction task that predicts whether one intends to share a photo in the next conversation turn, and a photo retrieval task that retrieves the most relevant photo according to the dialogue context. In addition, for both tasks, we provide baseline models using the state-of-the-art models and report their benchmark performances. The best image retrieval model achieves 10.4% re-call@1 (out of 1000 candidates) and the best photo intent prediction model achieves 58.1% F1 score, indicating that the dataset presents interesting yet challenging real-world problems. We are releasing PhotoChat to facilitate future research work among the community.},
    author = {Xiaoxue Zang and Lijuan Liu and Maria Wang and Yang Song and Hao Zhang and Jindong Chen},
