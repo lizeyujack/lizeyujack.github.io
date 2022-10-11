@@ -24,3 +24,12 @@ PhotoChat 论文精读:
 
 对于意图识别：本文为了建立基线，我们微调了三个SOTA预先训练的模型——BERT、ALBERT  and T5.
 对于图片：{% include latex.html latex="P = \{p_1, p_2, ..., p_M\}" %}，其中，{% include latex.html latex="p_{i} \in P, i \in \[1,M\]" %}。那么一段多轮对话来说{% include latex.html latex="D = \{t_1, ..., t_h, p_k, t_{h+1}, ..., t_N\}, t_j , j = \[1,N\] , p_i \in P" %}其中 {% include latex.html latex="t_h" %}时刻，发生了分享图片的action。
+
+
+>> @article{,
+   abstract = {We present a new human-human dialogue dataset-PhotoChat, the first dataset that casts light on the photo sharing behavior in online messaging. PhotoChat contains 12k dialogues, each of which is paired with a user photo that is shared during the conversation. Based on this dataset, we propose two tasks to facilitate research on image-text modeling: a photo-sharing intent prediction task that predicts whether one intends to share a photo in the next conversation turn, and a photo retrieval task that retrieves the most relevant photo according to the dialogue context. In addition, for both tasks, we provide baseline models using the state-of-the-art models and report their benchmark performances. The best image retrieval model achieves 10.4% re-call@1 (out of 1000 candidates) and the best photo intent prediction model achieves 58.1% F1 score, indicating that the dataset presents interesting yet challenging real-world problems. We are releasing PhotoChat to facilitate future research work among the community.},
+   author = {Xiaoxue Zang and Lijuan Liu and Maria Wang and Yang Song and Hao Zhang and Jindong Chen},
+   title = {PhotoChat: A Human-Human Dialogue Dataset with Photo Sharing Behavior for Joint Image-Text Modeling},
+   url = {https://github.com/google-research/google-},
+}
+
