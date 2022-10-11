@@ -23,7 +23,7 @@ PhotoChat 论文精读:
 > 可惜PhotoChat不适合作为dialogue generation。注重检索和意图预测。
 
 $\sigma$
-<img src="http://latex.codecogs.com/gif.latex?c=\sqrt{a^2+b^2}" alt="" border="0" align="middle" />
+<img src="http://latex.codecogs.com/gif.latex?c=\sqrt{a^2+b^2}\sigma" alt="" border="0" align="middle" />
 
 
 对于意图识别：本文为了建立基线，我们微调了三个SOTA预先训练的模型——BERT、ALBERT  and T5.
