@@ -23,4 +23,4 @@ PhotoChat 论文精读:
 > 可惜PhotoChat不适合作为dialogue generation。注重检索和意图预测。
 
 对于意图识别：本文为了建立基线，我们微调了三个SOTA预先训练的模型——BERT、ALBERT  and T5.
-对于图片：{% include latex.html latex="P = \{p_1, p_2, ..., p_M\}" %}，其中，{% include latex.html latex="p_{i} \in P, i \in \[1,M\]" %}
+对于图片：{% include latex.html latex="P = \{p_1, p_2, ..., p_M\}" %}，其中，{% include latex.html latex="p_{i} \in P, i \in \[1,M\]" %}。那么一段多轮对话来说{% include latex.html latex="D = \{t_1, ..., t_h, p_k, t_{h+1}, ..., t_N\}, t_j , j = \[1,N\] , p_i \in P" %}其中 {include latex.html latex="t_h"}时刻，发生了分享图片的action。
