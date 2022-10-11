@@ -27,4 +27,4 @@ $\sigma$
 
 
 对于意图识别：本文为了建立基线，我们微调了三个SOTA预先训练的模型——BERT、ALBERT  and T5.
-{% include latex.html latex="P = {p_1, p_2, ..., p_M}" %}
+{% include latex.html latex="P = \{p_1, p_2, ..., p_M\}" %}
