@@ -39,3 +39,8 @@ feature_image: "https://user-images.githubusercontent.com/53364734/192078882-190
 {% raw %}{% include video.html id="1Jr4y1G7oG" t="0" title="Siteleaf tutorial video" %}{% endraw %}
 ```
 
+# latex scripts:
+
+```
+{% raw %}{% include latex.html latex="\sigma" %}{% endraw %}
+```
