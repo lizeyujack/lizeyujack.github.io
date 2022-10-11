@@ -23,3 +23,4 @@ PhotoChat 论文精读:
 > 可惜PhotoChat不适合作为dialogue generation。注重检索和意图预测。
 
 $\sigma$
+<img src="http://www.forkosh.com/mathtex.cgi?c=\sqrt{a^2+b^2}\sigma" alt="" border="0" align="middle" />
