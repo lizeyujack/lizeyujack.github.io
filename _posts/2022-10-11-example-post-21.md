@@ -22,8 +22,11 @@ PhotoChat 论文精读:
 
 > 可惜PhotoChat不适合作为dialogue generation。注重检索和意图预测。
 
-对于意图识别：本文为了建立基线，我们微调了三个SOTA预先训练的模型——BERT、ALBERT  and T5.
+- 对于意图识别：本文为了建立基线，我们微调了三个SOTA预先训练的模型——BERT、ALBERT  and T5.
 对于图片：{% include latex.html latex="P = \{p_1, p_2, ..., p_M\}" %}，其中，{% include latex.html latex="p_{i} \in P, i \in \[1,M\]" %}。那么一段多轮对话来说{% include latex.html latex="D = \{t_1, ..., t_h, p_k, t_{h+1}, ..., t_N\}, t_j , j = \[1,N\] , p_i \in P" %}其中 {% include latex.html latex="t_h" %}时刻，发生了分享图片的action。
+
+
+- 对于图像检索：Dual encoder（double-stream network with bert as textual encoder and Resnet as visual encoder）、VSE++(强调了最难的底片使用最大的铰链损失为目标，并产生了显著的性能改进,2018)、SCAN(是一个完整的交叉注意模型，它捕获图像区域和文本标记之间的细粒度相互作用，从而推断图像-文本相似性。)、BM25(是一种广泛用于文档检索的概率检索函数。为了使其适应我们的设置，我们直接利用每个图像{% include latex.html latex="l_j, j \in \[1,m\]" %}的对象标签作为文档项)
 
 
 >> @article{,
